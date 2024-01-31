@@ -35,9 +35,6 @@ url-latency-benchmark=日本节点, resource-tag-regex=^((?!(极速|ACA)).)*$, s
 url-latency-benchmark=新国节点, resource-tag-regex=^((?!(极速)).)*$, server-tag-regex=^(?=.*((?i)🇸🇬|新加坡|狮|(\b(SG|Singapore)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png
 url-latency-benchmark=美国节点, resource-tag-regex=^((?!(极速|ACA)).)*$, server-tag-regex=^(?=.*((?i)🇺🇸|美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|(\b(US|United States)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png
 [server_remote]
-https://service-jr81qmf6-1322309999.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=9881f5e613e06eef9d06e5ec28a303a0, tag=CTC, update-interval=172800, opt-parser=true, enabled=true
-http://api.aca.best/api/v1/client/subscribe?token=8113c0847feb59c4f9243edcbc520244, tag=ACA, update-interval=86400, opt-parser=true, enabled=true
-https://jsjc.cfd/api/v1/client/subscribe?token=85d3440edb76a109f2e8c5bcc233151c, tag=极速, update-interval=172800, opt-parser=true, enabled=true
 
 
 [filter_remote]
