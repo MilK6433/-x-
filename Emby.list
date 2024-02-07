@@ -12,6 +12,8 @@ DOMAIN,notnetflix.cos.cat
 # 守候网络Emby
 DOMAIN-SUFFIX,emby.cn2gias.uk
 DOMAIN-SUFFIX,post.cn2gias.uk
+
+
 DOMAIN-SUFFIX,emby.nexitally.com
 DOMAIN-SUFFIX,emby.cjpc.cc
 DOMAIN-SUFFIX,emby.flowercloud.yt
