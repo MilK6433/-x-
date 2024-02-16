@@ -2,11 +2,10 @@
 DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,porn.aca.best
 DOMAIN-SUFFIX,misakaf.org
-DOMAIN-SUFFIX,stream1.misakaf.org
-DOMAIN-SUFFIX,stream2.misakaf.org
-DOMAIN-SUFFIX,stream3.misakaf.org
+HOST,stream1.misakaf.org
+HOST,stream2.misakaf.org
+HOST,stream3.misakaf.org
 
 # 守候网络Emby
-DOMAIN-SUFFIX,emby.cn2gias.uk
-DOMAIN-SUFFIX,post.cn2gias.uk
-HOST,src-emby.cn2gias.uk
+HOST,post.cn2gias.uk
+HOST,emby.cn2gias.uk
