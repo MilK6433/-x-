@@ -1,15 +1,8 @@
 # ACA & MisakaF
 DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,porn.aca.best
-HOST,misakaf.org
-HOST,stream1.misakaf.org
-HOST,stream2.misakaf.org
-HOST,stream3.misakaf.org
-HOST,stream4.misakaf.org
-
-
+DOMAIN-SUFFIX,misakaf.org
 
 # 守候网络Emby
-HOST,post.cn2gias.uk
-HOST,emby.cn2gias.uk
-HOST,src-emby.cn2gias.uk
+DOMAIN-SUFFIX,cn2gias.uk
+
