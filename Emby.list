@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,misakaf.org
 # 守候网络Emby
 DOMAIN-SUFFIX,cn2gias.uk
 
+# 私房菜Emby
+HOST,notnetflix.cos.cat
