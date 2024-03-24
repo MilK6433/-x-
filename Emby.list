@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,misakaf.org
 
 # 私房菜&卷毛鼠
 HOST,notnetflix.cos.cat
+IP-ASN,56046
 
 #TreeDiagram
 DOMAIN-SUFFIX,789.123456.al
