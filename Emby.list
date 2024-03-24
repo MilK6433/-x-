@@ -1,10 +1,10 @@
 # ACA & MisakaF
-IP-ASN,56046
+DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,porn.aca.best
 DOMAIN-SUFFIX,misakaf.org
 
 # 私房菜&卷毛鼠
-IP-ASN,56046
+HOST,notnetflix.cos.cat
 
 #TreeDiagram
 DOMAIN-SUFFIX,789.123456.al
