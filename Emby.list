@@ -7,5 +7,9 @@ DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,emby.cn2gias.uk
 DOMAIN-SUFFIX,post.cn2gias.uk
 
-# nijigem
-DOMAIN-SUFFIX,media.nijigem.by
+# PiliPili 
+HOST-SUFFIX,pilipiliultra.top
+HOST-SUFFIX,pilipiliultra.com
+
+# 私房菜Emby
+HOST,notnetflix.cos.cat
